@@ -1,0 +1,2 @@
+# image2text
+在cifar10上，基于vgg16和genism的Devise模型的实现
